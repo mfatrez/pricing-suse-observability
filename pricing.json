@@ -130,16 +130,20 @@
             "completionPrice": 0.0001
         },
         "gemma2": {
-            "promptPrice": 0.0001,
-            "completionPrice": 0.0001
+            "promptPrice": 9.1001,
+            "completionPrice": 9.1001
         },
         "gemma2:latest": {
-            "promptPrice": 1,
-            "completionPrice": 1
+            "promptPrice": 1.1001,
+            "completionPrice": 1.1001
+        },
+        "llama3.1:latest": {
+            "promptPrice": 1.2002,
+            "completionPrice": 1.2002
         },
         "llama3.2:3b": {
-            "promptPrice": 1,
-            "completionPrice": 1
+            "promptPrice": 1.3002,
+            "completionPrice": 1.3002
         },
         "gemma:2b": {
             "promptPrice": 0.0001,
